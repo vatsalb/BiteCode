@@ -1,0 +1,44 @@
+#divtest
+{
+background-color:black;
+width:50%;
+height:;
+min-width:600px;
+min-height:200px;
+margin-left:25%;
+border: 0 solid ;
+border-radius: 4px ;
+box-shadow:14px 14px 7px rgba(0,0,0,0.4);
+background-image: linear-gradient( rgba(255,255,255,0.1),rgba(255,255,255,.1));
+  }
+  .testlabel
+{
+	font-family:verdana;
+	margin-left:15%;
+    font-size:13;
+	color:white;
+}
+.testinput
+{
+    height:5%;
+	width:35%;
+	font-size:100%;
+	border:0px ;
+    text-indent:10px;
+    float: right;
+    margin-right:20%;
+    border-radius:4px;
+	box-shadow:inset 2px 4px 4px rgba(0,0,0,0.3),inset 2px -1px 4px rgba(0,0,0,0.6);
+	
+}
+.testtextarea
+{
+	
+	font-size:100%;
+	border:0px ;
+    text-indent:10px;
+    float: left;
+    margin-left:15%;
+    border-radius:4px;
+	box-shadow:inset 2px 4px 4px rgba(0,0,0,0.3),inset 2px -1px 4px rgba(0,0,0,0.6);
+	}
